@@ -3,5 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.example.to_do_list",
+    "sha256_cert_fingerprint":["32:F8:E5:47:9F:CF:A5:F2:5F:19:D7:F6:08:98:CE:97:C4:2B:F8:22:D9:F4:72:C0:D1:8A:CD:47:F2:3E:F6:5E"]
   }
 }]
